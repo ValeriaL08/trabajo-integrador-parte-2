@@ -1,0 +1,50 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+#contenedor1
+{
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    text-align: right;
+}
+
+#contenedor2
+{
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    text-align: left;
+    margin-top: -1.5%;
+}
+
+#contenedor3
+{
+    width: 70%;
+    height: 350px;
+    margin: auto;
+    text-align: left;
+}
+
+#contenedor4
+{
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+.col-md-4
+{
+  margin: auto;
+}
+
+
+.navbar-expand-lg
+{
+  background-color: rgb(34, 11, 109);
+}
+
+
